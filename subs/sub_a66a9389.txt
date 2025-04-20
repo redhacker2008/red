@@ -1,6 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDOFpoZ1NqSmdNVHAwQ1lJYlNOZVhn@94.154.128.160:995#Ullanylan%20Trafik%3A%205.13%20GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDOFpoZ1NqSmdNVHAwQ1lJYlNOZVhn@94.154.128.160:995#Uzbekistan%F0%9F%87%BA%F0%9F%87%BF
-vless://9ae0be4c-4ded-4f95-8e24-6c671d074d63@18.169.170.125:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.microsoft.com&fp=chrome&pbk=TgsJDlfft5IoyW2yoEkyUwwCJrXAn6Tp9wTB-Ey3TmE&sid=#United%20Kingdom%28igrawoy%20100ms%29%F0%9F%87%AC%F0%9F%87%A7
+vless://9ae0be4c-4ded-4f95-8e24-6c671d074d63@1.1.1.1:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.microsoft.com&fp=chrome&pbk=TgsJDlfft5IoyW2yoEkyUwwCJrXAn6Tp9wTB-Ey3TmE&sid=#United%20Kingdom%28igrawoy%20100ms%29%F0%9F%87%AC%F0%9F%87%A7
 vless://9ae0be4c-4ded-4f95-8e24-6c671d074d63@16.170.172.186:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.microsoft.com&fp=chrome&pbk=TgsJDlfft5IoyW2yoEkyUwwCJrXAn6Tp9wTB-Ey3TmE&sid=#Sweden%28igrawoy%2080ms%29%F0%9F%87%B8%F0%9F%87%AA
 vless://9ae0be4c-4ded-4f95-8e24-6c671d074d63@94.154.128.160:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.microsoft.com&fp=chrome&pbk=TgsJDlfft5IoyW2yoEkyUwwCJrXAn6Tp9wTB-Ey3TmE&sid=#Uzbekistan%28igrawoy%2020-30ms%29%F0%9F%87%BA%F0%9F%87%BF
 vless://9ae0be4c-4ded-4f95-8e24-6c671d074d63@94.154.128.160:8443?security=tls&type=grpc&headerType=&serviceName=grpc&authority=&mode=gun&sni=altynasyr.store&fp=#Uzbekistan2%28igrawoy%2020-30ms%29%F0%9F%87%BA%F0%9F%87%BF
