@@ -1,7 +1,7 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqb0hVcE1TUWlGNXNQTVc1cFBmUUNn@94.154.128.160:995#Ullanylan%20Trafik%3A%200%20B
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqb0hVcE1TUWlGNXNQTVc1cFBmUUNn@94.154.128.160:995#Uzbekistan%F0%9F%87%BA%F0%9F%87%BF
-vless://df1bad40-eeb2-43e8-9f67-7f92e983ec14@18.169.170.125:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.microsoft.com&fp=chrome&pbk=TgsJDlfft5IoyW2yoEkyUwwCJrXAn6Tp9wTB-Ey3TmE&sid=#United%20Kingdom%28igrawoy%20100ms%29%F0%9F%87%AC%F0%9F%87%A7
+vless://df1bad40-eeb2-43e8-9f67-7f92e983ec14@1.1.1.1:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.microsoft.com&fp=chrome&pbk=TgsJDlfft5IoyW2yoEkyUwwCJrXAn6Tp9wTB-Ey3TmE&sid=#United%20Kingdom%28igrawoy%20100ms%29%F0%9F%87%AC%F0%9F%87%A7
 vless://df1bad40-eeb2-43e8-9f67-7f92e983ec14@16.170.172.186:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.microsoft.com&fp=chrome&pbk=TgsJDlfft5IoyW2yoEkyUwwCJrXAn6Tp9wTB-Ey3TmE&sid=#Sweden%28igrawoy%2080ms%29%F0%9F%87%B8%F0%9F%87%AA
 vless://df1bad40-eeb2-43e8-9f67-7f92e983ec14@94.154.128.160:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.microsoft.com&fp=chrome&pbk=TgsJDlfft5IoyW2yoEkyUwwCJrXAn6Tp9wTB-Ey3TmE&sid=#Uzbekistan%28igrawoy%2020-30ms%29%F0%9F%87%BA%F0%9F%87%BF
-vless://df1bad40-eeb2-43e8-9f67-7f92e983ec14@94.154.128.160:8443?security=tls&type=grpc&headerType=&serviceName=grpc&authority=&mode=gun&sni=altynasyr.store&fp=#Uzbekistan2%28igrawoy%2020-30ms%29%F0%9F%87%BA%F0%9F%87%BF
-vless://df1bad40-eeb2-43e8-9f67-7f92e983ec14@93.114.98.67:8443?security=tls&type=grpc&headerType=&serviceName=grpc&authority=&mode=gun&sni=altynasyr.store&fp=#Turkey3%F0%9F%87%B9%F0%9F%87%B7
+vless://df1bad40-eeb2-43e8-9f67-7f92e983ec14@94.154.128.160:8443?security=tls&type=grpc&headerType=&serviceName=grpc&authority=&mode=gun&sni=14ab2a61aeafef7f.altynasyr.store&fp=#Uzbekistan2%28igrawoy%2020-30ms%29%F0%9F%87%BA%F0%9F%87%BF
+vless://df1bad40-eeb2-43e8-9f67-7f92e983ec14@93.114.98.67:8443?security=tls&type=grpc&headerType=&serviceName=grpc&authority=&mode=gun&sni=47df6cc9230b2f75.altynasyr.store&fp=#Turkey3%F0%9F%87%B9%F0%9F%87%B7
